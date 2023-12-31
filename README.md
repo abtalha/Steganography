@@ -177,3 +177,7 @@ Stegseek is more than  powerful than  Stegcracker .I personally recommend to you
               
 
 😍 Happy Hacking 👀
+
+x = '0x32'
+print(chr(int(x,16)))
+#=> 2
